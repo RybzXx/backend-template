@@ -14,6 +14,13 @@ proper data shapes, feed those into the appropriate endpoints.
 - The deadline for the project is Thursday, 2024-08-29 at 11:59 p.m.
 - **No submissions will be accepted after that date.**
 
+## Method of Submission ##
+
+After completing the project, create a zip of the entire project and send it
+over e-mail to <adham.a@kapita.iq>
+
+# Task Details #
+
 ## Endpoints ##
 
 ### `/api/sales-trend` ###
@@ -61,10 +68,6 @@ Return the top 10 customers by total `:unit-price`.
 }
 ```
 
-## Method of Submission ##
-
-After completing the project, create a zip of the entire project and send it
-over e-mail to <adham.a@kapita.iq>
 
 <!-- Local Variables: -->
 <!-- jinx-local-words: "backend" -->
