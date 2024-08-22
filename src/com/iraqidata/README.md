@@ -9,6 +9,11 @@ The objective is to create a backend that returns information about the provided
 Use the first section -Data Analysis- to create helper functions that return the
 proper data shapes, feed those into the appropriate endpoints.
 
+## Deadline ##
+
+- The deadline for the project is Thursday, 2024-08-29 at 11:59 p.m.
+- **No submissions will be accepted after that date.**
+
 ## Endpoints ##
 
 ### `/api/sales-trend` ###
@@ -55,6 +60,11 @@ Return the top 10 customers by total `:unit-price`.
   ]
 }
 ```
+
+## Method of Submission ##
+
+After completing the project, create a zip of the entire project and send it
+over e-mail to <adham.a@kapita.iq>
 
 <!-- Local Variables: -->
 <!-- jinx-local-words: "backend" -->
